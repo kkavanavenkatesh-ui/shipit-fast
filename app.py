@@ -10,7 +10,7 @@ def get_ai_message():
         "The pipeline is healthy. India In the country",
         "Automation is the future! o",
         "Kavana's engine is officially running."
-        "This is good day."
+       
 
     ]
     return random.choice(messages)
