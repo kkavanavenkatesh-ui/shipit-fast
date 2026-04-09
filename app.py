@@ -8,7 +8,7 @@ def get_ai_message():
         "You're doing great!", 
         "Your code is clean.", 
         "The pipeline is healthy.",
-        "Automation is the future! of India",
+        "Automation is the future! o",
         "Kavana's engine is officially running."
     ]
     return random.choice(messages)
