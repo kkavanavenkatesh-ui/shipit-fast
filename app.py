@@ -7,7 +7,7 @@ def get_ai_message():
     messages = [
         "You're doing great!", 
         "Your code is clean.", 
-        "The pipeline is healthy.",
+        "The pipeline is healthy. India In the country",
         "Automation is the future! o",
         "Kavana's engine is officially running."
     ]
